@@ -1,5 +1,4 @@
-Backend : npm install , node index.js
-Frontend: npm install, npm run dev
+
 
 # 📒 MERN Note-Taking App
 A full-stack **Note-Taking Web Application** built with the **MERN stack** (MongoDB, Express, React, Node.js) and styled using **Tailwind CSS**.  
